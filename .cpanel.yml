@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-  - export DEPLOYPATH=/home/sate2798/testing/
+  - export DEPLOYPATH=/home/sate2798/public_html/testing/
   - /bin/cp -r * $DEPLOYPATH

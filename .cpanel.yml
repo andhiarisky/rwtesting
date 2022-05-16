@@ -1,0 +1,5 @@
+---
+deployment:
+tasks:
+  - export DEPLOYPATH=/home/sate2798/public_html/admin/
+  - /bin/cp -R * $DEPLOYPATH
